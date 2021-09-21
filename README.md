@@ -6,7 +6,7 @@ SatoshiLabs projects need a way how to document their technical decisions and fe
 For some of them Bitcoin Improvement Proposal (BIP) is not a right place because
 their range and implications are outside of the scope of Bitcoin and cryptocurrencies.
 
-SLIP repository is an extension to Bitcoin Improvement Proposal (BIP) process
+SLIP TOP repository is an extension to Bitcoin Improvement Proposal (BIP) process
 and contains the documents that are unsuitable for submission to BIP repository.
 
 Each SLIP should provide a concise technical specification of the feature and a rationale for the feature.
