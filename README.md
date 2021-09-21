@@ -1,4 +1,4 @@
-# SatoshiLabs Improvement Proposals
+#  Satochilabs Improvement Proposals
 
 [![Build Status](https://travis-ci.org/satoshilabs/slips.svg?branch=master)](https://travis-ci.org/satoshilabs/slips)
 
