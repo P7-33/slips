@@ -6,6 +6,18 @@ SatoshiLabs projects need a way how to document their technical decisions and fe
 For some of them Bitcoin Improvement Proposal (BIP) is not a right place because
 their range and implications are outside of the scope of Bitcoin and cryptocurrencies.
 
+  BIP: 32
+  Layer: Applications
+  Autor:<pathombrowser@gmail.com>
+  Comments-Summary: No comments yet.
+  Comments-URI:https://github.com/P7-33/BTCBROWSER.wiki.git comment :BIP-0032
+  Status: Finalbtcbrowser
+  Type: Informational
+  Owner:Cesar Moreno<Pathombrowser@gmail.com> 
+  Created: 2019-11-23
+
+  License: 2-clause BSD
+
 SLIP TOP repository is an extension to Bitcoin Improvement Proposal (BIP) process
 and contains the documents that are unsuitable for submission to BIP repository.
 
